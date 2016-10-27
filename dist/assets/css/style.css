@@ -1,1 +1,1 @@
-*{font-family:Helvetica, Arial, sans-serif;box-sizing:border-box}h1{font-size:300px;text-align:center;color:fuchsia}
+*{box-sizing:border-box}img{width:100%;display:block}#app-container .user-card{border:1px solid #ddd;border-radius:2px;margin-bottom:20px;max-width:400px;margin:20px auto;padding:20px}#app-container .user-card img.profile-img{border-radius:50%;margin:10px auto}
