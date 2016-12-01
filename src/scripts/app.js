@@ -14,8 +14,6 @@
 
 var Backbone = require('Backbone')
 var $ = require('jquery')
-
-
 var UserCollection = require('./model-users.js')
 var ViewTemplateConstructor = require('./viewTemplateContructor.js')
 var cardsTemplateFn = require('./view-cards.js')
